@@ -1,0 +1,6 @@
+.ow {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+  white-space: normal; //this is the one that gets you all the time
+}
